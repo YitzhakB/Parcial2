@@ -1,0 +1,132 @@
+body{
+	text-align: center;
+	margin: 0;
+	font-family: 'Nunito', sans-serif;
+}
+
+h1 {
+	color: #ffffff;
+	margin: 0;
+	font-size: 40px;
+	font-family: 'Nunito', sans-serif;
+}
+.CajaSuperior{
+	background-color: #4832a8;
+    position: relative;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+.CajaMedia{
+	background-color: #4832a8;
+    position: relative;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+.CajaBaja{
+	background-color: #ffffff;
+    position: relative;
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+.fotografia{
+    margin: 50px 50px;
+}
+.a{
+	margin: 50px 0;
+	font-family: 'Yanone Kaffeesatz', sans-serif;
+	font-size: 30px;
+	color: #4832a8;
+}
+.b{
+	margin: 50px 0;
+	font-family: 'Yanone Kaffeesatz', sans-serif;
+	font-size: 20px;
+	color: #4832a8;
+}
+.c{
+	margin: 50px 0;
+	font-family: 'Yanone Kaffeesatz', sans-serif;
+	font-size: 40px;
+	color: #ffffff;
+}
+.d{
+	margin: 10px 0;
+	font-family: 'Nunito', sans-serif;
+	font-size: 20px;
+	color: #ffffff;
+}
+.e{
+	margin: 20px 20px;
+	font-family: 'Yanone Kaffeesatz', sans-serif;
+	font-size: 20px;
+	color: #ffffff;
+}
+
+.f{
+	margin: 10px 0;
+	font-family: 'Nunito', sans-serif;
+	font-size: 20px;
+	color: #4832a8;
+}
+.CajaTexto{
+	background-color: #ffffff;
+    position: relative;
+    padding-top: 20px;
+    padding-bottom: 20px;	
+}
+.btn {
+  background: #bd34d9;
+  background-image: -webkit-linear-gradient(top, #bd34d9, #2980b9);
+  background-image: -moz-linear-gradient(top, #bd34d9, #2980b9);
+  background-image: -ms-linear-gradient(top, #bd34d9, #2980b9);
+  background-image: -o-linear-gradient(top, #bd34d9, #2980b9);
+  background-image: linear-gradient(to bottom, #bd34d9, #2980b9);
+  -webkit-border-radius: 28;
+  -moz-border-radius: 28;
+  border-radius: 28px;
+  font-family: 'Yanone Kaffeesatz', sans-serif;
+  color: #ffffff;
+  font-size: 35px;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+}
+
+.btn:hover {
+  background: #3cb0fd;
+  background-image: -webkit-linear-gradient(top, #3cb0fd, #3498db);
+  background-image: -moz-linear-gradient(top, #3cb0fd, #3498db);
+  background-image: -ms-linear-gradient(top, #3cb0fd, #3498db);
+  background-image: -o-linear-gradient(top, #3cb0fd, #3498db);
+  background-image: linear-gradient(to bottom, #3cb0fd, #3498db);
+  text-decoration: none;
+}
+.derecha{
+	text-align: left;
+}
+
+#tabla{
+
+}
+
+table{
+	color: #ffffff;
+	font-family: 'Yanone Kaffeesatz', sans-serif;
+	font-size: 25px;
+	background-color: #4832a8;
+	border-collapse: collapse;
+	width: 100%;
+}
+
+td{
+	padding: 20px;
+}
+
+tr:nth-child(even){
+	background-color: #ffffff;
+	color: #4832a8;
+}
+
+tr:hover td{
+	background-color: #ff951c;
+}
+
